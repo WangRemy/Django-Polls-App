@@ -4,7 +4,7 @@ from django.db import models
 from django.utils import timezone
 
 
-
+#This is a test line for Git practice
 
 class Question(models.Model):
     question_text = models.CharField(max_length=200)
