@@ -1,3 +1,2 @@
-# Ordina Music Rater (OMRA)
-Personal project
+# Django Polls App Tutorial
 
